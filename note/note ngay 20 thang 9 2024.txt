@@ -1,7 +1,8 @@
 asp.net với razor + mvc: HTML CSS JS C#
 blazor (một framework ui của asp.net): HTML CSS C# (blazor chủ yếu viết code C#, biết một xíu về JS)
 
-*5,RMUaM4s?-dD&
+admin@test.xyz
+Admin12345!@#$%
 
 SHA
 
@@ -11,3 +12,8 @@ ASP.NET blazor thì biết chút chút về javascript hoặc không cần biế
 dem++
 
 DI
+
+frontend có thể dùng trong project asp.net
+React
+Angular
+Vue
